@@ -4,6 +4,19 @@ A full-stack e-commerce web application built with React and Redux Toolkit, feat
 
 ---
 
+## Tech Used
+
+- **React 18** — UI library
+- **Redux Toolkit** — global state management and async data fetching
+- **React Router v6** — client-side routing and nested layouts
+- **Tailwind CSS v4** — utility-first styling
+- **Axios** — HTTP client for API communication
+- **Stripe** — payment processing via backend-generated sessions
+- **Sonner** — toast notifications
+- **Vite** — development server and build tool
+
+---
+
 ## Features
 
 ### Customer
